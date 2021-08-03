@@ -13,7 +13,7 @@ ES6 [2015] that version give us some of the improvements planned for version 4
 
 DATA TYPES
 
-
+a binding[variable] not only save a value for ever also we set as const 
 
 
 
