@@ -1,0 +1,10 @@
+{
+	"plugins": ["prettier"],
+	"extends": ["prettier"],
+	"rules": {
+		"prettier/prettier": {
+			"singleQuote": true,
+			"parser": "typescript"
+		}
+	}
+}
